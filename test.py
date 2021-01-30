@@ -5,3 +5,7 @@ print("This is a tets")
 
 
 print("SSSSSS")
+
+print("SSSSSS")
+print("SSSSSS")
+print("SSSSSS")
